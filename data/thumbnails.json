@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "movie_id": "ee3c0801-9609-49ea-87fa-fcb9b9f438b9",
+      "thumbnail_url": "https://i.imgur.com/g48UBCK.jpg"
+    },
+    {
+      "id": 2,
+      "movie_id": "01ddcfb6-9be0-4d99-a6e3-6b17ee37ac97",
+      "thumbnail_url": "https://i.imgur.com/9KbfeyU.jpg"
+    },
+    {
+      "id": 3,
+      "movie_id": "8761273c-958f-49ef-bc1a-9f8022d24d11",
+      "thumbnail_url": "https://i.imgur.com/GGNSqck.jpg"
+    },
+    {
+      "id": 4,
+      "movie_id": "789f7d37-b43d-4fd0-b169-6745cd103d25",
+      "thumbnail_url": "https://i.imgur.com/D5cDWtl.jpg"
+    },
+    {
+      "id": 5,
+      "movie_id": "8fa94004-414f-4eed-bb0e-45a2b10ebebf",
+      "thumbnail_url": "https://i.imgur.com/L4QadYz.jpg"
+    },
+    {
+      "id": 6,
+      "movie_id": "0d413a7a-b776-44d5-9235-19602346f94a",
+      "thumbnail_url": "https://i.imgur.com/hiHtNrZ.jpg"
+    },
+    {
+      "id": 7,
+      "movie_id": "65a208a5-768b-4677-838f-33c4dd385f9f",
+      "thumbnail_url": "https://i.imgur.com/ZEJmfqZ.jpg"
+    },
+    {
+      "id": 8,
+      "movie_id": "585a9285-d411-4625-a3f5-357f3e554673",
+      "thumbnail_url": "https://i.imgur.com/PtR0xMT.jpg"
+    },
+    {
+      "id": 9,
+      "movie_id": "3adad7b8-da99-4aba-b4f1-df43d3d9d7cf",
+      "thumbnail_url": "https://i.imgur.com/YrEe52r.gif"
+    },
+    {
+      "id": 10,
+      "movie_id": "e0986a67-d23a-415d-88d8-935de948ad16",
+      "thumbnail_url": "https://i.imgur.com/yZdBXQQ.jpg"
+    },
+    {
+      "id": 11,
+      "movie_id": null,
+      "thumbnail_url": "https://i.imgur.com/DpAjD55.jpg"
+    }
+  ]
+}
